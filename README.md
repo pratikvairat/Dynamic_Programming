@@ -10,7 +10,7 @@ This Repository contains problems solved by using Dynamic Programming.
 <tr>
 <td><a href="https://www.codingninjas.com/codestudio/problems/count-ways-to-reach-nth-stairs_798650">Count Ways To Reach The N-th Stairs</a></td>
 <td>Medium</td>
-<td></td>
+<td><a href="https://github.com/pratikvairat/Dynamic_Programming/blob/main/Number_Of_Ways_To_Reach_Nth_Stair.cpp">Solution</a></td>
 </tr>
 
 </table>
