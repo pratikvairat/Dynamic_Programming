@@ -12,5 +12,9 @@ This Repository contains problems solved by using Dynamic Programming.
 <td>Medium</td>
 <td><a href="https://github.com/pratikvairat/Dynamic_Programming/blob/main/Number_Of_Ways_To_Reach_Nth_Stair.cpp">Solution</a></td>
 </tr>
-
+<tr>
+<td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/description/"> Min Cost Climbing Stairs</a></td>
+<td>Easy</td>
+<td><a href="https://github.com/pratikvairat/Dynamic_Programming/blob/main/Min_Cost_Of_Climbing_Stairs.cpp">Solution</a></td>
+</tr>
 </table>
