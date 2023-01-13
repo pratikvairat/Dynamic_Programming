@@ -20,4 +20,10 @@ This Repository contains problems solved by using Dynamic Programming.
 <td>Easy</td>
 <td><a href="https://github.com/pratikvairat/Dynamic_Programming/blob/main/Min_Cost_Of_Climbing_Stairs.cpp">Solution</a></td>
 </tr> 
+<tr>
+<td><a href="https://www.codingninjas.com/codestudio/problems/count-derangements_873861">Count Derangments</a></td>
+<td>CodeStudio</td>
+<td>Medium</td>
+<td><a href="https://github.com/pratikvairat/Dynamic_Programming/blob/main/Count_Derangements.cpp>Solution</a></td>
+</tr>
 </table>
